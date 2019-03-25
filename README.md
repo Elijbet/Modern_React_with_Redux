@@ -1,5 +1,5 @@
 
-# Modern React with Redux [2019 Update]
+# [Modern React with Redux [2019 Update]](https://www.udemy.com/react-redux/)
 >Master the fundamental features of React, including JSX, state, props, reusable components. Integrate React with advanced browser features, even geolocation API's! Use popular styling libraries to build beautiful apps. Master different techniques of deployment. 
 
 - Building Content with JSX
