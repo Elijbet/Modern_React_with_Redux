@@ -8,6 +8,9 @@
 - Browsers don't understand jsx.
 - Copy paste jsx into babeljs.io to see the conversion. Make cure React preset is checked.
 - It's a dialect of JS, not HTML.
+- Use double quotes for jsx stings and single quotes for styling string. It's a conventions, but you can do as you please.
+- use className within jsx to avoid clash with js keyword class.
+
 
 
 ### To run locally:
